@@ -1,0 +1,14 @@
+C:\Users\Asus Tuf\Source\Repos\pj.73\pj.73\bin\Debug\pj.73.exe.config
+C:\Users\Asus Tuf\Source\Repos\pj.73\pj.73\bin\Debug\pj.73.exe
+C:\Users\Asus Tuf\Source\Repos\pj.73\pj.73\bin\Debug\pj.73.pdb
+C:\Users\Asus Tuf\Source\Repos\pj.73\pj.73\bin\Debug\pj.73.xml
+C:\Users\Asus Tuf\Source\Repos\pj.73\pj.73\obj\Debug\pj.73.vbproj.AssemblyReference.cache
+C:\Users\Asus Tuf\Source\Repos\pj.73\pj.73\obj\Debug\pj._73.MainMenu.resources
+C:\Users\Asus Tuf\Source\Repos\pj.73\pj.73\obj\Debug\pj._73.Resources.resources
+C:\Users\Asus Tuf\Source\Repos\pj.73\pj.73\obj\Debug\pj.73.vbproj.GenerateResource.cache
+C:\Users\Asus Tuf\Source\Repos\pj.73\pj.73\obj\Debug\pj.73.vbproj.CoreCompileInputs.cache
+C:\Users\Asus Tuf\Source\Repos\pj.73\pj.73\obj\Debug\pj.73.exe
+C:\Users\Asus Tuf\Source\Repos\pj.73\pj.73\obj\Debug\pj.73.xml
+C:\Users\Asus Tuf\Source\Repos\pj.73\pj.73\obj\Debug\pj.73.pdb
+C:\Users\Asus Tuf\Source\Repos\pj.73\pj.73\obj\Debug\pj.73.exe.config
+C:\Users\Asus Tuf\Source\Repos\pj.73\pj.73\obj\Debug\pj._73.Staff.resources
