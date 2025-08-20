@@ -9,6 +9,11 @@
         patientForm.Show()
     End Sub
 
+    Private Sub btnWard_Click(sender As Object, e As EventArgs) Handles btnWard.Click
+        Dim patientForm As New Ward()
+        patientForm.Show()
+    End Sub
+
     Private Sub btnSupplies_Click(sender As Object, e As EventArgs) Handles btnSupplies.Click
         Dim suppliesForm As New Supplies()
         suppliesForm.Show()
