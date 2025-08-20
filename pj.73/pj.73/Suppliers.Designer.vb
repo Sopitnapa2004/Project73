@@ -37,9 +37,8 @@ Partial Class Suppliers
         Me.PanelSuppliers.Controls.Add(Me.PictureBox1)
         Me.PanelSuppliers.Dock = System.Windows.Forms.DockStyle.Fill
         Me.PanelSuppliers.Location = New System.Drawing.Point(0, 0)
-        Me.PanelSuppliers.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.PanelSuppliers.Name = "PanelSuppliers"
-        Me.PanelSuppliers.Size = New System.Drawing.Size(661, 365)
+        Me.PanelSuppliers.Size = New System.Drawing.Size(992, 562)
         Me.PanelSuppliers.TabIndex = 0
         '
         'TableLayoutPanel1
@@ -49,22 +48,20 @@ Partial Class Suppliers
         Me.TableLayoutPanel1.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50.0!))
         Me.TableLayoutPanel1.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50.0!))
         Me.TableLayoutPanel1.Controls.Add(Me.btnManage, 0, 0)
-        Me.TableLayoutPanel1.Location = New System.Drawing.Point(273, 150)
-        Me.TableLayoutPanel1.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.TableLayoutPanel1.Location = New System.Drawing.Point(410, 231)
         Me.TableLayoutPanel1.Name = "TableLayoutPanel1"
         Me.TableLayoutPanel1.RowCount = 1
         Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50.0!))
         Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 50.0!))
-        Me.TableLayoutPanel1.Size = New System.Drawing.Size(133, 65)
+        Me.TableLayoutPanel1.Size = New System.Drawing.Size(200, 100)
         Me.TableLayoutPanel1.TabIndex = 1
         '
         'btnManage
         '
         Me.btnManage.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.btnManage.Location = New System.Drawing.Point(2, 2)
-        Me.btnManage.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
+        Me.btnManage.Location = New System.Drawing.Point(3, 3)
         Me.btnManage.Name = "btnManage"
-        Me.btnManage.Size = New System.Drawing.Size(129, 61)
+        Me.btnManage.Size = New System.Drawing.Size(194, 94)
         Me.btnManage.TabIndex = 0
         Me.btnManage.Text = "Manage"
         Me.btnManage.UseVisualStyleBackColor = True
@@ -75,20 +72,18 @@ Partial Class Suppliers
         Me.PictureBox1.Dock = System.Windows.Forms.DockStyle.Fill
         Me.PictureBox1.Image = Global.pj._73.My.Resources.Resources.Screenshot_2025_08_08_161313
         Me.PictureBox1.Location = New System.Drawing.Point(0, 0)
-        Me.PictureBox1.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(661, 365)
+        Me.PictureBox1.Size = New System.Drawing.Size(992, 562)
         Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
         Me.PictureBox1.TabIndex = 0
         Me.PictureBox1.TabStop = False
         '
         'Suppliers
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(661, 365)
+        Me.ClientSize = New System.Drawing.Size(992, 562)
         Me.Controls.Add(Me.PanelSuppliers)
-        Me.Margin = New System.Windows.Forms.Padding(2, 2, 2, 2)
         Me.Name = "Suppliers"
         Me.Text = "Suppliers"
         Me.PanelSuppliers.ResumeLayout(False)
