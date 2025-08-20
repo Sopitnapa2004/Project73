@@ -8,4 +8,9 @@
         Dim patientForm As New Patient()
         patientForm.Show()
     End Sub
+
+    Private Sub btnWard_Click(sender As Object, e As EventArgs) Handles btnWard.Click
+        Dim wardForm As New Ward()
+        wardForm.Show()
+    End Sub
 End Class
